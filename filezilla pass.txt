@@ -1,0 +1,3 @@
+filezilla passwords
+u:vish,p:vish
+admin pass: admin2
